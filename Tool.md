@@ -1,11 +1,6 @@
-//write about tools
-//what are the tools have we use in daly life
-//is computer is a tool ? give your opinion.
+<h1>TOOL</h1>
 
-
-                   Tool
-
-A tool is an object or device that helps to do a jobor a task.It can extend ability to modify
+A tool is an object or device that helps to do a job or a task.It can extend ability to modify
  features of the surrounding evironment or facilitate manual or mechanical work. 
 
 There many types of tools available for diffrent kinds of work. Some of the most commonly
